@@ -1,11 +1,11 @@
-##############################Library utiliser, il n'est pas obligatoire mais conseillÈ de les charger dËs le dÈbut .... ##############################
+##############################Library utilis√©e, il n'est pas obligatoire mais conseill√© de les charger d√®s le d√©but .... ##############################
 library(dplyr)
 library(stringr)
 library(tidyr)
 library(questionr)
 
 
-##############################donnes geosirene ‡ trouver ici : ##############################
+##############################donnes geosirene √† trouver ici : ##############################
 #http://data.cquest.org/geo_sirene/last/
 
 
